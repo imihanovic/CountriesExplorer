@@ -47,11 +47,6 @@ Open your browser and go to http://localhost:5173. You should be able to see the
 - **Leaflet.js** – Displaying interactive maps
 - **React Leaflet** – Integrating Leaflet maps into React applications
 
-### ✅ Testing
-- **Vitest** – Fast testing for React applications
-- **@testing-library/react** – Testing React components
-- **JSDOM** – Simulating the DOM for testing
-
 ### 🛠 Tools and Configuration
 - **@biomejs/biome** – Code formatting, linting, and static analysis
 - **TailwindCSS Select2 Theme** – Customizing styles for Select2 components
