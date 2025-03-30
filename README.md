@@ -10,7 +10,7 @@ If not, you can download and install Node.js (which includes npm) from [here](ht
 
 ## Clone the repository
 
-git clone https://github.com/imihanovic/CountriesExplorerApp.git
+git clone https://github.com/imihanovic/CountriesExplorer.git
 
 ## Install dependencies from the root folder
 
@@ -165,3 +165,6 @@ Open your browser and go to http://localhost:5173. You should be able to see the
 
 ### 6. Offline access
 - **Service Worker for PWA support**: Offline access to the app through Progressive Web App standards.
+
+# Website 
+[Countries Explorer](https://countries-explorer-phi.vercel.app/)
